@@ -1,0 +1,14 @@
+Variables,n_NaN,Min,Max,Mean,Std
+n_antihypertensive,0,0,3,0.41,0.66
+n_antidiabetic,0,0,2,0.06,0.28
+n_antiinflammatory,0,0,1,0.11,0.31
+n_thyroid,0,0,1,0.07,0.26
+n_sedatives,0,0,2,0.05,0.26
+n_antidepressants,0,0,2,0.08,0.3
+n_antiplatelet_anticoagulant,0,0,1,0.18,0.39
+n_neurological,0,0,2,0.04,0.22
+n_sex_hormones,0,0,3,0.1,0.38
+n_vasodilators_nitrates,0,0,1,0.01,0.1
+n_diuretics,0,0,1,0.02,0.14
+n_respiratory,0,0,2,0.05,0.26
+n_cvr_relevant_drugs,0,0,4,1.17,1.17
