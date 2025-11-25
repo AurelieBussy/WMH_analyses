@@ -1,0 +1,10 @@
+Comparison,Variable,Test,Statistic,p
+All BrainLaus vs QC < 3,Age,Welch t-test,0.12,0.9008
+All BrainLaus vs QC < 3,Gender,Chi-square,0.01,0.9927
+All BrainLaus vs QC < 3,Fazekas total,Chi-square,0.64,0.9956
+QC < 3 vs QC < 3 + CVR matched,Age,Welch t-test,-13.98,0.0
+QC < 3 vs QC < 3 + CVR matched,Gender,Chi-square,1.48,0.4768
+QC < 3 vs QC < 3 + CVR matched,Fazekas total,Chi-square,59.3,0.0
+QC < 3 vs Excluded due to QC,Age,Welch t-test,-0.45,0.6521
+QC < 3 vs Excluded due to QC,Gender,Chi-square,0.21,0.9022
+QC < 3 vs Excluded due to QC,Fazekas total,Chi-square,8.45,0.2071
