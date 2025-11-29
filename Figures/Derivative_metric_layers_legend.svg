@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-09-16T17:56:23.600386</dc:date>
+    <dc:date>2025-11-29T18:03:00.456763</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ L 61.397813 20.17125
 " style="fill: none; stroke: #f6d0aa; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_1">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="70.997813" y="24.37125" transform="rotate(-0 70.997813 24.37125)">MTsat</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="70.997813" y="24.37125" transform="rotate(-0 70.997813 24.37125)">MTsat</text>
     </g>
     <g id="line2d_2">
      <path d="M 129.010313 20.17125 
@@ -47,7 +47,7 @@ L 153.010313 20.17125
 " style="fill: none; stroke: #fa9f42; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_2">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="162.610313" y="24.37125" transform="rotate(-0 162.610313 24.37125)">R1</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="162.610313" y="24.37125" transform="rotate(-0 162.610313 24.37125)">R1</text>
     </g>
     <g id="line2d_3">
      <path d="M 202.583438 20.17125 
@@ -56,7 +56,7 @@ L 226.583438 20.17125
 " style="fill: none; stroke: #a76e35; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_3">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="236.183438" y="24.37125" transform="rotate(-0 236.183438 24.37125)">R2*</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="236.183438" y="24.37125" transform="rotate(-0 236.183438 24.37125)">R2*</text>
     </g>
     <g id="line2d_4">
      <path d="M 282.156563 20.17125 
@@ -65,43 +65,43 @@ L 306.156563 20.17125
 " style="fill: none; stroke: #aaddd4; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_4">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="315.756563" y="24.37125" transform="rotate(-0 315.756563 24.37125)">FA</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="315.756563" y="24.37125" transform="rotate(-0 315.756563 24.37125)">ISOVF</text>
     </g>
     <g id="line2d_5">
-     <path d="M 353.772188 20.17125 
-L 365.772188 20.17125 
-L 377.772188 20.17125 
+     <path d="M 375.261563 20.17125 
+L 387.261563 20.17125 
+L 399.261563 20.17125 
 " style="fill: none; stroke: #49beaa; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_5">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="387.372188" y="24.37125" transform="rotate(-0 387.372188 24.37125)">ICVF</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="408.861563" y="24.37125" transform="rotate(-0 408.861563 24.37125)">ICVF</text>
     </g>
     <g id="line2d_6">
-     <path d="M 438.402188 20.17125 
-L 450.402188 20.17125 
-L 462.402188 20.17125 
+     <path d="M 459.891563 20.17125 
+L 471.891563 20.17125 
+L 483.891563 20.17125 
 " style="fill: none; stroke: #3a8175; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_6">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="472.002188" y="24.37125" transform="rotate(-0 472.002188 24.37125)">OD</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="493.491563" y="24.37125" transform="rotate(-0 493.491563 24.37125)">OD</text>
     </g>
     <g id="line2d_7">
-     <path d="M 514.688437 20.17125 
-L 526.688437 20.17125 
-L 538.688437 20.17125 
+     <path d="M 536.177813 20.17125 
+L 548.177813 20.17125 
+L 560.177813 20.17125 
 " style="fill: none; stroke: #f8b4b6; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_7">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="548.288437" y="24.37125" transform="rotate(-0 548.288437 24.37125)">MD</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="569.777813" y="24.37125" transform="rotate(-0 569.777813 24.37125)">MD</text>
     </g>
     <g id="line2d_8">
-     <path d="M 591.882188 20.17125 
-L 603.882188 20.17125 
-L 615.882188 20.17125 
+     <path d="M 613.371562 20.17125 
+L 625.371562 20.17125 
+L 637.371562 20.17125 
 " style="fill: none; stroke: #ff5a5f; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_8">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="625.482188" y="24.37125" transform="rotate(-0 625.482188 24.37125)">ISOVF</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="646.971563" y="24.37125" transform="rotate(-0 646.971563 24.37125)">FA</text>
     </g>
     <g id="line2d_9">
      <path d="M 684.987188 20.17125 
@@ -110,7 +110,7 @@ L 708.987188 20.17125
 " style="fill: none; stroke: #ad4447; stroke-width: 2; stroke-linecap: round"/>
     </g>
     <g id="text_9">
-     <text style="fill: #262626; font: 12px 'DejaVu Sans', sans-serif; text-anchor: start" x="718.587188" y="24.37125" transform="rotate(-0 718.587188 24.37125)">g-ratio</text>
+     <text style="fill: #262626; font: 12px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="718.587188" y="24.37125" transform="rotate(-0 718.587188 24.37125)">g-ratio</text>
     </g>
    </g>
   </g>
