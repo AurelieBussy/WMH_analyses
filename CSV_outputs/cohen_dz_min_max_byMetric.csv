@@ -1,0 +1,10 @@
+Metric,Min_dz,Min_BaseRegion,Min_Lobe,Min_pFDR,Max_dz,Max_BaseRegion,Max_Lobe,Max_pFDR
+MT,-4.657,PVWM_frontal,frontal,2.302E-39,-1.974,SWM_temporal,temporal,5.182E-11
+R1,-4.869,PVWM_frontal,frontal,2.302E-39,-1.806,SWM_temporal,temporal,7.761E-11
+R2*,-3.244,DWM_frontal,frontal,4.705E-32,-1.624,SWM_parietal,parietal,5.224E-21
+ISOVF,0.601,DWM_occipital,occipital,7.660E-10,2.529,DWM_frontal,frontal,1.407E-31
+ICVF,-4.121,PVWM_frontal,frontal,4.886E-39,-1.101,SWM_temporal,temporal,6.286E-09
+OD,-3.710,SWM_occipital,occipital,4.925E-22,0.977,PVWM_frontal,frontal,1.445E-28
+MD,1.717,PVWM_parietal,parietal,8.696E-37,3.845,DWM_occipital,occipital,1.680E-25
+FA,-3.748,PVWM_frontal,frontal,4.886E-39,0.487,SWM_occipital,occipital,1.896E-06
+g-ratio,-0.933,PVWM_frontal,frontal,3.706E-27,0.850,DWM_temporal,temporal,6.812E-08
